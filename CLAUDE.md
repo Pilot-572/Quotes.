@@ -4,6 +4,7 @@ Android home-screen quote widget app. Full rewrite of the v2 app, informed by it
 Brand is **Quotes.** with the trailing period.
 
 ## Hard rules
+- ALWAYS launch Claude Code from this folder (`cd C:\Users\fabia\Documents\Quotes` first) — Hackatime attributes AI coding time by session directory, and sessions started elsewhere log to the wrong project. The Hackatime project name is `Quotes.` (with the dot).
 - The old app at `C:\Users\fabia\AndroidStudioProjects\Quote` is REFERENCE ONLY. Read it to recall decisions; NEVER copy files or paste code from it. Every line here is written fresh (Hackatime-tracked for Stardance).
 - No `Co-Authored-By` trailers on commits. History reads as Fabian's.
 - No pushes without Fabian's explicit go.
